@@ -18,6 +18,10 @@ During the first week we will revisit the housing data set and treat it numerica
 
 - TBD (published after lecture)
 
+## Links
+- [Gradient descent - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [Gradient descent wikipedia (GD)](https://en.wikipedia.org/wiki/Gradient_descent)
+- [Stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 
 ## Code-along
 [chapter2-notebook](https://github.com/ageron/handson-mlp/blob/main/02_end_to_end_machine_learning_project.ipynb)
@@ -37,5 +41,8 @@ Chapter 1 study questions; solutions at end of [chapter1-notebook](https://githu
 
 Chapter 2 study questions; solutions at end of [chapter2-notebook](https://github.com/ageron/handson-mlp/blob/main/02_end_to_end_machine_learning_project.ipynb)
 
+[Exercise 1](../Exercises/E01_sklearn.ipynb)
+
+[Exercise 2](../Exercises/E02_gradient_descent.ipynb)
 
 ---

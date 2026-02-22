@@ -58,13 +58,11 @@ References - Regularized linear models
 Logistic regression
 - [Sigmoid function - wikipedia](https://en.wikipedia.org/wiki/Sigmoid_function)
 - [Logistic regression - wikipedia](https://en.wikipedia.org/wiki/Logistic_regression)
-- [ISLP pp 147-153](https://www.statlearning.com/)
 - [Precision, accuracy, recall, F-score](https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/)
 - [Precision and recall - wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall)
 - [Logistic regression - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
 KNN
-- [ISLP pp 36-39](https://www.statlearning.com/)
 - [KNN - wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - [KNeighborClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [Similarity measure - wikipedia](https://en.wikipedia.org/wiki/Similarity_measure)
@@ -109,15 +107,14 @@ KMeans
 - [Clustering user guide - sklearn](https://scikit-learn.org/stable/modules/clustering.html#k-means)
 - [KMeans - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 - [Find optimal k clusters - analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/)
-- [ISLRv2 - pp. 516-521](https://www.statlearning.com/)
+
 
 PCA - Principal component analysis
 - [Prinicipalkomponentanalys - wikipedia](https://sv.wikipedia.org/wiki/Principalkomponentanalys)
-- [Egenvärde, egenvektor, egenrum - wikipedia]()
 - [PCA - wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - [PCA - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 - [PCA user guide - sklearn](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
-- [PCA - ISLR pp. 497-516](https://www.statlearning.com/)
+
 
 NLP
 - [TF-IDF](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
