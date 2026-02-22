@@ -1,0 +1,40 @@
+· Introduktion / Problemställning
+    Vilket är problemet som skall lösas?
+    Teori, beskriva vilka delar av teorin som är relevanta för rapporten.
+    Du behöver inte göra några härledningar eller bevis men skriv ner
+    relevanta formler och definitioner.
+
+· Data-analys (EDA)
+    Beskriv vilka samband som finns i datamängden. Lyft bara fram de som du faktiskt 
+    använder. Övrig information behöver inte någon mer utförlig analys i en sådan
+    här kortare rapport.
+
+· Modell
+    Beskriv algoritmer/modell du använt samt vilka (hyper-)parametrar du använt. 
+    Nämn alla modeller du använder, men beskriv i detalj bara den du faktiskt
+    använder i slutändan (den som var bäst).
+
+· Resultat
+    Uvärdera modellen. Du kan jämföra modeller, tex i en tabell, men i löptexten
+    så behöver du bara beskriva den modell som du faktiskt använde i slutändan.
+    Se till beskriva resultatet både i ord och i en figur eller python output.
+
+· Diskussion
+    Förklara kortakommanden och/eller begränsningar och resonera kring vad resultatet
+    innebär för problemställningen.
+
+Allmänt:
+
+Skriv inte kronologiskt. Skriv som du kännt till resultaten hela tiden, dvs 
+perspektivet är i efterhand och utförandet är i dåtid.
+
+Skriv i löpande form, en annan person skall kunna läsa innehållet och förstå 
+vad det handlar om utan tillgång till Lab PM.
+
+Några paragrafer i varje del räcker. Sammantaget så skall det inte ta mer än 15 min
+att presentera på ett hyptotetiskt möte med kollegor. Max 5 skärmar information.
+
+Undvik pronomen som 'jag', 'vi' osv. Passiv röst är att fördedra.
+
+Istället för "Jag valde att använda en logistisk och en kNN regression." så skriv
+"KNN och logistisk regression valdes."
