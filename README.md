@@ -45,15 +45,15 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 |          | EXAM |
 | [17][w9] | Apply for LIA, self-study, re-exams on previous courses                    |
 
-[w1]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week1.md
-[w2]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week2.md
-[w3]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week3.md
-[w4]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week4.md
-[w5]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week5.md
-[w6]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week6.md
-[w7]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week7.md
-[w8]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week8.md
-[w9]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week9.md
+[w1]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week1.md
+[w2]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week2.md
+[w3]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week3.md
+[w4]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week4.md
+[w5]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week5.md
+[w6]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week6.md
+[w7]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week7.md
+[w8]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week8.md
+[w9]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week9.md
 
 ---
 
