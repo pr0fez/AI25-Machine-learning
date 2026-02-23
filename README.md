@@ -34,6 +34,7 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 | [13][w5] | Dimensionality reduction and clustering|
 |          | Code-along: Principal Component Analysis
 |          | Code-along: K-Means, DBSCAN
+|          | Deadline Assignment 1 |
 | [14][w6] | Artificial Neural Networks |
 |          | Code-along: Backpropagation |
 |          | Code-along: Classification |
@@ -44,6 +45,7 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 |          | Code-along: Building Chatbots |
 |          | EXAM |
 | [17][w9] | Apply for LIA, self-study, re-exams on previous courses                    |
+|          | Deadline Assignment 2 |
 
 [w1]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week1.md
 [w2]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week2.md
