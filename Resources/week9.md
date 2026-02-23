@@ -6,3 +6,4 @@ This week is dedicated for
 - reexaminations (old labs and exams in old courses) 
 - update your CV, LinkedIn profiles, etc
 - apply for LiA (internship)
+- finish second assignment
