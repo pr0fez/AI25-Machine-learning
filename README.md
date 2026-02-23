@@ -1,13 +1,13 @@
 # Machine learning (AI25)
 
-This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in:
+This is a course with focus of learning concepts in machine learning using **scikit-learn** and **pytorch**. This course will build upon prior skills in:
 
 - data processing
 - visualising data
 - statistics
 - linear algebra
 
-The first five weeks use `sklearn` while the last three use `pytorch`.
+The first five weeks use `sklearn` while the remainder uses `pytorch`.
 
 All lecture code and exercises can be found in the course [Github repo][ghr].
 
