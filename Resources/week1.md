@@ -1,4 +1,4 @@
-# Week 9 - Resources
+# Week 9 - Simulation and Gradient Descent - Resources
 
 [Main page](https://github.com/pr0fez/AI25-Machine-learning)
 

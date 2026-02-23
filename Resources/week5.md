@@ -1,4 +1,4 @@
-# Week 13 - Resources
+# Week 13 - Dimensionality Reduction and Unsupervised Learning - Resources
 
 [Main page](https://github.com/pr0fez/AI25-Machine-learning)
 

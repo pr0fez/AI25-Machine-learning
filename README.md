@@ -44,7 +44,7 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 | [16][w8] | Natural language processing with neural networks|
 |          | Code-along: Building Chatbots |
 |          | EXAM |
-| [17][w9] | Apply for LIA, self-study, re-exams on previous courses                    |
+| [17][w9] | Apply for LIA, re-exams on previous courses                    |
 |          | Deadline Assignment 2 |
 
 [w1]: https://github.com/pr0fez/AI25-Machine-learning/blob/main/Resources/week1.md

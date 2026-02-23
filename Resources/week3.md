@@ -1,4 +1,4 @@
-# Week 11 - Resources
+# Week 11 - Regularization and Optimization - Resources
 
 [Main page](https://github.com/pr0fez/AI25-Machine-learning)
 

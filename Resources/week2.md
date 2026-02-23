@@ -1,4 +1,4 @@
-# Week 10 - Resources
+# Week 10 - Classification - Resources
 
 [Main page](https://github.com/pr0fez/AI25-Machine-learning)
 

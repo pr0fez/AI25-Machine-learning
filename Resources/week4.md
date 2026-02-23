@@ -1,4 +1,4 @@
-# Week 12 - Resources
+# Week 12 Classical Algorithms - Resources
 
 [Main page](https://github.com/pr0fez/AI25-Machine-learning)
 
@@ -25,7 +25,8 @@ SVM
 - [SVM machine learning mastery](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 
 ## Code-along
-[chapter4-notebook](https://github.com/ageron/handson-mlp/blob/main/05_decision_trees.ipynb)
+[chapter5-notebook](https://github.com/ageron/handson-mlp/blob/main/05_decision_trees.ipynb)
+[chapter6-notebook](https://github.com/ageron/handson-mlp/blob/main/06_ensemble_learning_and_random_forests.ipynb)
 
 [appendix-c-notebook](https://github.com/ageron/handson-mlp/blob/main/Appendix_C_support_vector_machines.ipynb)
 
