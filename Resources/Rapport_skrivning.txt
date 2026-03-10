@@ -38,3 +38,4 @@ Undvik pronomen som 'jag', 'vi' osv. Passiv röst är att fördedra.
 
 Istället för "Jag valde att använda en logistisk och en kNN regression." så skriv
 "KNN och logistisk regression valdes."
+
