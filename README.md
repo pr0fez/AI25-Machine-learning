@@ -29,8 +29,7 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 |          | Code-along: Major League Hitters |
 |          | Code-along: Diabetes dataset |
 | [12][w4] | Classical algorithms|
-|          | Code-along: Decision Trees |
-|          | Code-along: Support Vector Machines |
+|          | Code-along: Book recommendations |
 | [13][w5] | Dimensionality reduction and clustering|
 |          | Code-along: Principal Component Analysis
 |          | Code-along: K-Means, DBSCAN

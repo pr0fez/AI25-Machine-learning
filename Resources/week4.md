@@ -24,7 +24,7 @@ SVM
 - [Support vector classifier sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 - [SVM machine learning mastery](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 
-## Code-along
+## Code
 [chapter5-notebook](https://github.com/ageron/handson-mlp/blob/main/05_decision_trees.ipynb)
 [chapter6-notebook](https://github.com/ageron/handson-mlp/blob/main/06_ensemble_learning_and_random_forests.ipynb)
 
