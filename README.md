@@ -38,8 +38,8 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 |          | Code-along: Backpropagation |
 |          | Code-along: Classification |
 | [15][w7] | Computer vision with neural networks|
-|          | Code-along: Image classification |
-|          | Code-along: Visualizing CNNs |
+|          | Code-along: Visualizing CNNs, attribution |
+|          | Code-along: Image segmentation |
 | [16][w8] | Natural language processing with neural networks|
 |          | Code-along: Building Chatbots |
 |          | EXAM |
