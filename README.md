@@ -36,12 +36,10 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 |          | Deadline Assignment 1 |
 | [14][w6] | Artificial Neural Networks |
 |          | Code-along: Backpropagation |
-|          | Code-along: Classification |
-| [15][w7] | Computer vision with neural networks|
-|          | Code-along: Visualizing CNNs, attribution |
-|          | Code-along: Image segmentation |
-| [16][w8] | Natural language processing with neural networks|
+|          | Code-along: Visualizing CNNs, attribution  |
+| [15][w7] | Natural language processing with neural networks|
 |          | Code-along: Building Chatbots |
+| [16][w8] | Training deep neural networks |
 |          | EXAM |
 | [17][w9] | Apply for LIA, re-exams on previous courses                    |
 |          | Deadline Assignment 2 |
