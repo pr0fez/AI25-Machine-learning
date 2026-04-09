@@ -4,15 +4,15 @@
 
 ## Lecture notes
 
-- TBD (published after lecture)
-
-
-## Code-along
+[Text processing](../Code/L14a-text_processing.ipynb)
+[Transformers](../Code/L14b-Transformers.ipynb)
+[Chatbots](../Code/L14c.Chatbot_Prompt_Engineering.ipynb)
+[Interpretability](../Code/L15-Interpretability_LLMs.ipynb)
 
 ---
 ## Recommended Reading 
 
----
-## Exercises 
+Chapter 15
+
 
 ---

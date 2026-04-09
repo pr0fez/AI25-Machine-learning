@@ -39,7 +39,7 @@ All lecture code and exercises can be found in the course [Github repo][ghr].
 |          | Code-along: Visualizing CNNs, attribution  |
 | [15][w7] | Natural language processing with neural networks|
 |          | Code-along: Building Chatbots |
-| [16][w8] | Training deep neural networks |
+| [16][w8] | Repetition, Consultation |
 |          | EXAM |
 | [17][w9] | Apply for LIA, re-exams on previous courses                    |
 |          | Deadline Assignment 2 |
